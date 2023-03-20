@@ -1,4 +1,34 @@
+body{
+    background-color: #212124;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.header{
+    background: #2e2e33;
+}
+
 .mainpg{
     text-align: center;
-    
+
 }
+
+.ingredients{
+    font-weight: bold;
+    list-style-position: inside;
+    padding-right: 40px;
+}
+
+.directions > li{
+    list-style-position: inside;
+    padding-right: 40px;
+}
+.nutrition{
+    list-style-position: inside;
+    padding-right: 40px;
+}
+a{
+    color: white;
+}
+/*#2e2e33*/
